@@ -1,0 +1,11 @@
+# NAME: HK_Bank
+# AUTHOR: luoxiaoqun
+# REPO: https://github.com/luoxiaoqun/ios_rule_QuantumultX
+# UPDATED: 2021-12-11 
+# USER-AGENT: 1
+# HOST-SUFFIX: 2
+# HOST-KEYWORD: 1
+HOST-SUFFIX,hangseng.com,HangSeng
+HOST-KEYWORD,hangseng,PayPal
+USER-AGENT,hangseng*,PayPal
+HOST-SUFFIX,citibank.com.hk,CiTiHK
