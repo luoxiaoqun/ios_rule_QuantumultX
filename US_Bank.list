@@ -1,1 +1,29 @@
+# NAME: US_Bank
+# AUTHOR: luoxiaoqun
+# REPO: https://github.com/luoxiaoqun/ios_rule_QuantumultX
+# UPDATED: 2021-12-11 
+# USER-AGENT:  
+# HOST-SUFFIX:  
+# HOST-KEYWORD:  
+HOST-SUFFIX,equifax.com,equifax
+HOST-SUFFIX,digicert.com,digicert
+HOST-SUFFIX,americanexpress.com,AMEX
+HOST-KEYWORD,americanexpress,AMEX
+USER-AGENT,americanexpress*,AMEX
+USER-AGENT,go2bank*,go2bank
+HOST-SUFFIX,zellepay.com,zelle
+HOST-KEYWORD,zellepay,zelle
+USER-AGENT,zellepay*,zelle
+HOST-SUFFIX,capitalone.com,C1
+HOST-KEYWORD,capitalone,C1
+USER-AGENT,capitalone*,C1
+HOST-SUFFIX,citi.com,citi
+HOST-KEYWORD,citi,citi
+USER-AGENT,citi*,citi
+HOST-SUFFIX,passbook-api.remitly.com,passbook
+HOST-KEYWORD,passbook,citi
+USER-AGENT,passbook*,citi
+
+
+
 
