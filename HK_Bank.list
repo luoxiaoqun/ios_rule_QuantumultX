@@ -12,3 +12,4 @@ HOST-SUFFIX,citibank.com.hk,CiTiHK
 HOST-SUFFIX,binance.com,binance
 HOST-KEYWORD,binance,binance
 USER-AGENT,binance*,binance
+HOST-SUFFIX,edu.hk,EDU
