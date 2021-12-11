@@ -2,9 +2,6 @@
 # AUTHOR: luoxiaoqun
 # REPO: https://github.com/luoxiaoqun/ios_rule_QuantumultX
 # UPDATED: 2021-12-11 
-# USER-AGENT:  
-# HOST-SUFFIX:  
-# HOST-KEYWORD:  
 HOST-SUFFIX,equifax.com,equifax
 HOST-SUFFIX,digicert.com,digicert
 HOST-SUFFIX,americanexpress.com,AMEX
@@ -21,9 +18,5 @@ HOST-SUFFIX,citi.com,citi
 HOST-KEYWORD,citi,citi
 USER-AGENT,citi*,citi
 HOST-SUFFIX,passbook-api.remitly.com,passbook
-HOST-KEYWORD,passbook,citi
-USER-AGENT,passbook*,citi
-
-
-
-
+HOST-KEYWORD,passbook,passbook
+USER-AGENT,passbook*,passbook
