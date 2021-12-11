@@ -10,6 +10,7 @@ HOST-SUFFIX,binance.com,binance
 HOST-KEYWORD,binance,binance
 USER-AGENT,binance*,binance
 HOST-SUFFIX,hkmu.edu.hk,hkmu
+HOST-SUFFIX,ouhk.edu.hk,hkmu
 HOST-KEYWORD,hkmu,hkmu
 USER-AGENT,hkmu*,hkmu
 HOST-SUFFIX,hsbc.com.hk,HSBC
