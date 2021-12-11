@@ -2,10 +2,13 @@
 # AUTHOR: luoxiaoqun
 # REPO: https://github.com/luoxiaoqun/ios_rule_QuantumultX
 # UPDATED: 2021-12-11 
-# USER-AGENT: 1
-# HOST-SUFFIX: 2
-# HOST-KEYWORD: 1
+# USER-AGENT: 2
+# HOST-SUFFIX: 3
+# HOST-KEYWORD: 2
 HOST-SUFFIX,hangseng.com,HangSeng
-HOST-KEYWORD,hangseng,PayPal
-USER-AGENT,hangseng*,PayPal
+HOST-KEYWORD,hangseng,HangSeng
+USER-AGENT,hangseng*,HangSeng
 HOST-SUFFIX,citibank.com.hk,CiTiHK
+HOST-SUFFIX,binance.com,binance
+HOST-KEYWORD,binance,binance
+USER-AGENT,binance*,binance
