@@ -21,3 +21,4 @@ USER-AGENT,bochk*,bochk
 HOST-SUFFIX,interactivebrokers.com,IBHK
 HOST-KEYWORD,interactivebrokers,IBHK
 USER-AGENT,interactivebrokers*,IBHK
+HOST-SUFFIX,leavehomesafe.gov.hk,安心出行
