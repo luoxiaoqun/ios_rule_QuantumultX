@@ -21,3 +21,6 @@ HOST-SUFFIX,passbook-api.remitly.com,passbook
 HOST-KEYWORD,passbook,passbook
 USER-AGENT,passbook*,passbook
 HOST-SUFFIX,credit.com,credit
+HOST-SUFFIX,ultramobile.com,paygo
+HOST-KEYWORD,ultramobile,paygo
+USER-AGENT,ultramobile*,paygo
