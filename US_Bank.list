@@ -27,3 +27,5 @@ USER-AGENT,ultramobile*,paygo
 HOST-SUFFIX,chase.com,chase
 HOST-KEYWORD,chase,chase
 USER-AGENT,chase*,chase
+HOST-SUFFIX,aexp-static.com,AMEX
+HOST-SUFFIX,secure.force.com,AMEX
