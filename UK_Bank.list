@@ -1,0 +1,8 @@
+# NAME: UK_Bank
+# AUTHOR: luoxiaoqun
+# REPO: https://github.com/luoxiaoqun/ios_rule_QuantumultX
+# UPDATED: 2021-12-30
+
+HOST-SUFFIX,monzo.com,monzo
+HOST-KEYWORD,monzo,monzo
+USER-AGENT,monzo*,monzo
