@@ -1,7 +1,7 @@
 # NAME: US_Bank
 # AUTHOR: luoxiaoqun
 # REPO: https://github.com/luoxiaoqun/ios_rule_QuantumultX
-# UPDATED: 2021-12-22
+# UPDATED: 2022-1-3
 HOST-SUFFIX,equifax.com,equifax
 HOST-SUFFIX,digicert.com,digicert
 HOST-SUFFIX,americanexpress.com,AMEX
@@ -29,3 +29,10 @@ HOST-KEYWORD,chase,chase
 USER-AGENT,chase*,chase
 HOST-SUFFIX,aexp-static.com,AMEX
 HOST-SUFFIX,secure.force.com,AMEX
+HOST-SUFFIX,usbank.com,usbank
+HOST-KEYWORD,usbank,usbank
+USER-AGENT,usbank*,usbank
+HOST-SUFFIX,plaid.com,plaid
+HOST-KEYWORD,plaid,plaid
+USER-AGENT,plaid*,plaid
+HOST,www.linkedin.com,linkedin
