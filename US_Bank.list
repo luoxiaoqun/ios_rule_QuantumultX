@@ -1,7 +1,7 @@
 # NAME: US_Bank
 # AUTHOR: luoxiaoqun
 # REPO: https://github.com/luoxiaoqun/ios_rule_QuantumultX
-# UPDATED: 2022-1-4
+# UPDATED: 2022-3-30
 HOST-SUFFIX,equifax.com,equifax
 HOST-SUFFIX,digicert.com,digicert
 HOST-SUFFIX,americanexpress.com,AMEX
@@ -39,3 +39,6 @@ HOST,www.linkedin.com,linkedin
 HOST-SUFFIX,sablecard.com,sable
 HOST-KEYWORD,sablecard,sable
 USER-AGENT,sablecard*,sable
+HOST-SUFFIX,palaceskateboards.com,palace
+HOST-KEYWORD,palaceskateboards,palace
+USER-AGENT,palaceskateboards*,palace
