@@ -1,7 +1,7 @@
 # NAME: HK_Bank
 # AUTHOR: luoxiaoqun
 # REPO: https://github.com/luoxiaoqun/ios_rule_QuantumultX
-# UPDATED: 2021-12-11 
+# UPDATED: 2022-04-19
 HOST-SUFFIX,hangseng.com,HangSeng
 HOST-KEYWORD,hangseng,HangSeng
 USER-AGENT,hangseng*,HangSeng
