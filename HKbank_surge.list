@@ -1,19 +1,18 @@
-	DOMAIN-SUFFIX,hangseng.com
-	DOMAIN-KEYWORD,hangseng
-	DOMAIN-SUFFIX,citibank.com.hk
-	DOMAIN-SUFFIX,binance.com
-	DOMAIN-KEYWORD,binance
-	DOMAIN-SUFFIX,hkmu.edu.hk
-	DOMAIN-KEYWORD,hkmu
-	DOMAIN-SUFFIX,hsbc.com.hk
-	DOMAIN-KEYWORD,hsbc
-	DOMAIN-SUFFIX,bochk.com
-	DOMAIN-KEYWORD,bochk
-	DOMAIN-SUFFIX,interactivebrokers.com
-	DOMAIN-KEYWORD,interactivebrokers
-	DOMAIN-SUFFIX,leavehomesafe.gov.hk
-	DOMAIN-SUFFIX,hkjc.com
-	DOMAIN-KEYWORD,hkjc
-	DOMAIN-SUFFIX,za.group
-	DOMAIN-SUFFIX,livibank.com
-
+DOMAIN-SUFFIX,hangseng.com
+DOMAIN-KEYWORD,hangseng
+DOMAIN-SUFFIX,citibank.com.hk
+DOMAIN-SUFFIX,binance.com
+DOMAIN-KEYWORD,binance
+DOMAIN-SUFFIX,hkmu.edu.hk
+DOMAIN-KEYWORD,hkmu
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-KEYWORD,hsbc
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-KEYWORD,bochk
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-KEYWORD,interactivebrokers
+DOMAIN-SUFFIX,leavehomesafe.gov.hk
+DOMAIN-SUFFIX,hkjc.com
+DOMAIN-KEYWORD,hkjc
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,livibank.com
