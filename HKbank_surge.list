@@ -16,3 +16,10 @@ DOMAIN-SUFFIX,hkjc.com
 DOMAIN-KEYWORD,hkjc
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,livibank.com
+USER-AGENT,hangseng*
+USER-AGENT,binance*
+USER-AGENT,hkmu*
+USER-AGENT,hsbc*
+USER-AGENT,bochk*
+USER-AGENT,interactivebrokers*
+USER-AGENT,hkjc*
