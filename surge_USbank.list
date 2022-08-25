@@ -29,3 +29,15 @@ DOMAIN-SUFFIX,palaceskateboards.com
 DOMAIN-KEYWORD,palaceskateboards
 DOMAIN-SUFFIX,cashappapi.com
 DOMAIN-KEYWORD,cashappapi
+USER-AGENT,americanexpress*
+USER-AGENT,go2bank*
+USER-AGENT,zellepay*
+USER-AGENT,capitalone*
+USER-AGENT,citi*
+USER-AGENT,passbook*
+USER-AGENT,chase*
+USER-AGENT,usbank*
+USER-AGENT,plaid*
+USER-AGENT,sablecard*
+USER-AGENT,palaceskateboards*
+USER-AGENT,cashappapi*
