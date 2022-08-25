@@ -1,0 +1,31 @@
+# NAME: US_Bank
+# AUTHOR: luoxiaoqun
+# REPO: https://github.com/luoxiaoqun/ios_rule_QuantumultX
+# UPDATED: 2022-8-25
+DOMAIN-SUFFIX,equifax.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,americanexpress.com
+DOMAIN-KEYWORD,americanexpress
+DOMAIN-SUFFIX,zellepay.com
+DOMAIN-KEYWORD,zellepay
+DOMAIN-SUFFIX,capitalone.com
+DOMAIN-KEYWORD,capitalone
+DOMAIN-SUFFIX,citi.com
+DOMAIN-KEYWORD,citi
+DOMAIN-SUFFIX,passbook-api.remitly.com
+DOMAIN-KEYWORD,passbook
+DOMAIN-SUFFIX,credit.com
+DOMAIN-SUFFIX,chase.com
+DOMAIN-KEYWORD,chase
+DOMAIN-SUFFIX,aexp-static.com
+DOMAIN-SUFFIX,secure.force.com
+DOMAIN-SUFFIX,usbank.com
+DOMAIN-KEYWORD,usbank
+DOMAIN-SUFFIX,plaid.com
+DOMAIN-KEYWORD,plaid
+DOMAIN-SUFFIX,sablecard.com
+DOMAIN-KEYWORD,sablecard
+DOMAIN-SUFFIX,palaceskateboards.com
+DOMAIN-KEYWORD,palaceskateboards
+DOMAIN-SUFFIX,cashappapi.com
+DOMAIN-KEYWORD,cashappapi
