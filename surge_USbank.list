@@ -11,7 +11,6 @@ DOMAIN-KEYWORD,zellepay
 DOMAIN-SUFFIX,capitalone.com
 DOMAIN-KEYWORD,capitalone
 DOMAIN-SUFFIX,citi.com
-DOMAIN-KEYWORD,citi
 DOMAIN-SUFFIX,passbook-api.remitly.com
 DOMAIN-KEYWORD,passbook
 DOMAIN-SUFFIX,credit.com
@@ -33,7 +32,6 @@ USER-AGENT,americanexpress*
 USER-AGENT,go2bank*
 USER-AGENT,zellepay*
 USER-AGENT,capitalone*
-USER-AGENT,citi*
 USER-AGENT,passbook*
 USER-AGENT,chase*
 USER-AGENT,usbank*
