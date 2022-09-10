@@ -23,3 +23,6 @@ USER-AGENT,hsbc*
 USER-AGENT,bochk*
 USER-AGENT,interactivebrokers*
 USER-AGENT,hkjc*
+DOMAIN-SUFFIX,airstarbank.com
+DOMAIN-KEYWORD,airstarbank
+USER-AGENT,airstar*
