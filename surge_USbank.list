@@ -39,3 +39,6 @@ USER-AGENT,plaid*
 USER-AGENT,sablecard*
 USER-AGENT,palaceskateboards*
 USER-AGENT,cashappapi*
+DOMAIN-SUFFIX,12status.com
+DOMAIN-SUFFIX,calleridtest.com
+DOMAIN-SUFFIX,irs.gov
