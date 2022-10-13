@@ -1,7 +1,6 @@
 # NAME: US_Bank
 # AUTHOR: luoxiaoqun
-# REPO: https://github.com/luoxiaoqun/ios_rule_QuantumultX
-# UPDATED: 2022-8-25
+# UPDATED: 2022-10-13
 DOMAIN-SUFFIX,equifax.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,americanexpress.com
