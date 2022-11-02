@@ -1,7 +1,9 @@
 # NAME: US_Bank
 # AUTHOR: luoxiaoqun
-# UPDATED: 2022-10-13
+# UPDATED: 2022-11-2
 DOMAIN-SUFFIX,equifax.com
+DOMAIN-SUFFIX,experian.com
+DOMAIN-KEYWORD,experian
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,americanexpress.com
 DOMAIN-KEYWORD,americanexpress
