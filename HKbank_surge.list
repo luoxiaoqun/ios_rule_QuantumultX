@@ -1,4 +1,4 @@
-#update:2022,10-13
+#update:2022,11-23
 DOMAIN-SUFFIX,hangseng.com
 DOMAIN-KEYWORD,hangseng
 DOMAIN-SUFFIX,citibank.com.hk
@@ -31,3 +31,7 @@ USER-AGENT,airstar*
 DOMAIN-SUFFIX,hk.bankcomm.com
 DOMAIN-SUFFIX,fusionbank.com
 DOMAIN-SUFFIX,prod-mox.com
+#Tap N Go
+DOMAIN-SUFFIX,tapngo.com.hk
+DOMAIN-KEYWORD,tapngo
+USER-AGENT,tapngo*
