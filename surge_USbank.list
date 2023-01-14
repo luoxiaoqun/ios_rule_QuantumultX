@@ -1,6 +1,6 @@
 # NAME: US_Bank
 # AUTHOR: luoxiaoqun
-# UPDATED: 2022-12-9
+# UPDATED: 2023-1-14
 DOMAIN-SUFFIX,equifax.com
 DOMAIN-SUFFIX,experian.com
 DOMAIN-KEYWORD,experian
@@ -44,6 +44,10 @@ DOMAIN-SUFFIX,12status.com
 DOMAIN-SUFFIX,calleridtest.com
 DOMAIN-SUFFIX,irs.gov
 DOMAIN-SUFFIX,annualcreditreport.com
-# USER-AGENT,fidelity*
-# DOMAIN-SUFFIX,fidelity.com
-# DOMAIN-KEYWORD,fidelity
+USER-AGENT,fidelity*
+DOMAIN-SUFFIX,fidelity.com
+DOMAIN-KEYWORD,fidelity
+DOMAIN-SUFFIX,hyatt.com
+DOMAIN-SUFFIX,joincheckmate.com
+DOMAIN-SUFFIX,rebatekey.com
+DOMAIN-SUFFIX,squareup.com
