@@ -59,3 +59,6 @@ DOMAIN-KEYWORD,tronlink
 DOMAIN-SUFFIX,tronlink.org
 DOMAIN-SUFFIX,mercari.com
 DOMAIN-SUFFIX,fluzapp.com
+USER-AGENT,paypal*
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-KEYWORD,paypal
