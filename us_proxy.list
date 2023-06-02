@@ -1,17 +1,14 @@
 # NAME: US_proxy
 # AUTHOR: luoxiaoqun
-# UPDATED: 2023-4-9
-douzai.store
-ups.com
-ihg.com
-giftcards.com
-finishline.com
-walmart.com
-qiandao.today
-interactivebrokers.com
-ibkr.com
-creditkarma.com
-ralphlauren.com
-openai.com
-psg.fr
-
+# UPDATED: 2023-6-2
+DOMAIN-SUFFIX,douzai.store
+DOMAIN-SUFFIX,giftcards.com
+DOMAIN-SUFFIX,finishline.com
+DOMAIN-SUFFIX,walmart.com
+DOMAIN-SUFFIX,qiandao.today
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,creditkarma.com
+DOMAIN-SUFFIX,ralphlauren.com
+DOMAIN-SUFFIX,psg.fr
+DOMAIN-SUFFIX,rakuten.com
