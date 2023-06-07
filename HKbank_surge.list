@@ -1,4 +1,4 @@
-#update:2023,6-2
+#update:2023,6-7
 DOMAIN-SUFFIX,hangseng.com
 DOMAIN-KEYWORD,hangseng
 DOMAIN-SUFFIX,citibank.com.hk
@@ -38,4 +38,7 @@ USER-AGENT,tapngo*
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,schwab.com
 DOMAIN-SUFFIX,wise.com
+#渣打银行
 DOMAIN-SUFFIX,sc.com
+DOMAIN-KEYWORD,standchartbank
+USER-AGENT,standchart*
