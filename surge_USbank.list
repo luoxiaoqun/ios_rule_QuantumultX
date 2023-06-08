@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,experian.com
 DOMAIN-KEYWORD,experian
 DOMAIN-SUFFIX,credit.com
 DOMAIN-SUFFIX,annualcreditreport.com
+DOMAIN-SUFFIX,creditkarma.com
 #美国运通
 DOMAIN-SUFFIX,americanexpress.com
 DOMAIN-KEYWORD,americanexpress
@@ -64,6 +65,7 @@ DOMAIN-SUFFIX,hyatt.com
 #MS返现/购物网站
 DOMAIN-SUFFIX,rebatekey.com
 DOMAIN-SUFFIX,mercari.com
+DOMAIN-SUFFIX,rebaid.com
 #IRS
 DOMAIN-SUFFIX,irs.gov
 DOMAIN-SUFFIX,id.me
@@ -77,7 +79,3 @@ DOMAIN-SUFFIX,joincheckmate.com
 DOMAIN-SUFFIX,aexp-static.com
 DOMAIN-SUFFIX,secure.force.com
 DOMAIN-SUFFIX,digicert.com
-
-
-
-
