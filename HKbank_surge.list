@@ -45,6 +45,9 @@ DOMAIN-SUFFIX,hk.bankcomm.com
 DOMAIN-SUFFIX,fusionbank.com
 #MOX香港
 DOMAIN-SUFFIX,prod-mox.com
+DOMAIN-SUFFIX,mox.com
+DOMAIN-KEYWORD,mox
+USER-AGENT,mox*
 #Tap N Go
 DOMAIN-SUFFIX,tapngo.com.hk
 DOMAIN-KEYWORD,tapngo
