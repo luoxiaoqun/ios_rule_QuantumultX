@@ -66,6 +66,10 @@ USER-AGENT,wise*
 DOMAIN-SUFFIX,sc.com
 DOMAIN-KEYWORD,standchartbank
 USER-AGENT,standchart*
+#信银国际
+DOMAIN-SUFFIX,cncbinternational.com
+DOMAIN-KEYWORD,cncbinternational
+USER-AGENT,cncbinternational*
 #国泰航空
 DOMAIN-SUFFIX,cathaypacific.com
 DOMAIN-KEYWORD,cathaypacific
