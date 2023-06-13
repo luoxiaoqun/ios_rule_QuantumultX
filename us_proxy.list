@@ -23,3 +23,8 @@ DOMAIN-SUFFIX,enterprise.com
 DOMAIN-SUFFIX,hertz.com
 DOMAIN-SUFFIX,avis.com
 DOMAIN-SUFFIX,sixt.com
+#DMV
+DOMAIN-SUFFIX,dmv.ca.gov
+DOMAIN-SUFFIX,verificient.com
+DOMAIN-SUFFIX,dmvonline.ca.gov
+DOMAIN-SUFFIX,ca.gov
