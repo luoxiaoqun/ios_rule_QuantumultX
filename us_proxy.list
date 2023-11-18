@@ -1,6 +1,6 @@
 # NAME: US_proxy
 
-# UPDATED: 2023-6-2
+# UPDATED: 2023-11-18
 
 DOMAIN-SUFFIX,douzai.store
 DOMAIN-SUFFIX,giftcards.com
@@ -31,3 +31,5 @@ DOMAIN-SUFFIX,ca.gov
 DOMAIN-SUFFIX,simpligov.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,aexp-static.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
