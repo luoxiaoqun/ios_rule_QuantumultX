@@ -1,6 +1,6 @@
 # NAME: US_Bank
 
-# UPDATED: 2023-6-2
+# UPDATED: 2024-2-25
 
 #信用报告
 DOMAIN-SUFFIX,equifax.com
@@ -81,3 +81,16 @@ DOMAIN-SUFFIX,joincheckmate.com
 DOMAIN-SUFFIX,aexp-static.com
 DOMAIN-SUFFIX,secure.force.com
 DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,wf.com
+DOMAIN-SUFFIX,wellsfargo.com
+DOMAIN-SUFFIX,topcashback.com
+DOMAIN-SUFFIX,stubhub.com
+DOMAIN-SUFFIX,supreme.com
+DOMAIN-SUFFIX,supremenewyork.com
+DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,axs.com
+DOMAIN-SUFFIX,dmv.ca.gov
+DOMAIN-SUFFIX,ally.com
+DOMAIN-SUFFIX,venmo.com
+DOMAIN-SUFFIX,viglink.com
