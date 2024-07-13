@@ -1,6 +1,6 @@
 # NAME: US_Bank
 
-# UPDATED: 2024-7-5
+# UPDATED: 2024-7-13
 
 #信用报告
 DOMAIN-SUFFIX,equifax.com
@@ -99,3 +99,4 @@ DOMAIN-SUFFIX,outputservices.com
 DOMAIN-SUFFIX,voachinese.com
 DOMAIN-SUFFIX,bankofamerica.com
 DOMAIN-SUFFIX,chexsystems.com
+DOMAIN-SUFFIX,treasurydirect.gov
