@@ -1,6 +1,6 @@
 # NAME: US_Bank
 
-# UPDATED: 2024-7-13
+# UPDATED: 2025-8-8
 
 #信用报告
 DOMAIN-SUFFIX,equifax.com
@@ -74,6 +74,12 @@ DOMAIN-SUFFIX,id.me
 #波场app
 DOMAIN-KEYWORD,tronlink
 DOMAIN-SUFFIX,tronlink.org
+#boa
+DOMAIN-SUFFIX,bankofamerica.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,Payfone.com
+DOMAIN-SUFFIX,nuance.com
+DOMAIN-SUFFIX,bac-assets.com
 #其他
 DOMAIN-SUFFIX,12status.com
 DOMAIN-SUFFIX,calleridtest.com
@@ -97,6 +103,5 @@ DOMAIN-SUFFIX,viglink.com
 DOMAIN-SUFFIX,sofi.com
 DOMAIN-SUFFIX,outputservices.com
 DOMAIN-SUFFIX,voachinese.com
-DOMAIN-SUFFIX,bankofamerica.com
 DOMAIN-SUFFIX,chexsystems.com
 DOMAIN-SUFFIX,treasurydirect.gov
